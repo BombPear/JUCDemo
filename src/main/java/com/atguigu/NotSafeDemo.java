@@ -17,6 +17,7 @@ public class NotSafeDemo {
                 System.out.println(set);
             },String.valueOf(i)).start();
         }
+        System.out.println("李保牛比");
     }
 
 
